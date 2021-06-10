@@ -1,9 +1,9 @@
-## Miners Guild Contract 
+## Art Transmuter
 
 
 #### Getting Started
  
-This contains the contract and unit tests for the Miners Guild DAO. 
+This contains the contract and unit tests. 
 
 #### Commands: 
     nvm install 14 (requires node14)
